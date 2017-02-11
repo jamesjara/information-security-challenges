@@ -1,0 +1,7 @@
+class Dog2 implements Animal
+{
+  public void say()
+  {
+      System.out.println('woofsssssssssssssssss');
+  }
+}
